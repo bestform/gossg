@@ -1,0 +1,38 @@
+{
+    "title": "Frequenznebel",
+    "header_file": "templates/header.html",
+    "footer_file": "templates/footer.html",
+    "pages": [
+        {
+            "target_filename": "index.html",
+            "title": "Home",
+            "content_type": "html",
+            "content_path": "content/index.html"
+        },
+        {
+            "target_filename": "studio.html",
+            "title": "Studio",
+            "content_type": "html",
+            "content_path": "content/studio.html"
+        },
+        {
+            "target_filename": "imprint.html",
+            "title": "Imprint",
+            "content_type": "html",
+            "content_path": "content/imprint.html"
+        },
+        {
+            "target_filename": "blog.html",
+            "title": "Blog",
+            "content_type": "blogindex",
+            "pages": [
+                {
+                    "target_filename": "bitwig.html",
+                    "title": "After nearly 20 years of using Ableton Live I switched to Bitwig. This is how it went.",
+                    "content_type": "markdown",
+                    "content_path": "content/md/bitwig.md"
+                }
+            ]
+        }
+    ]
+}

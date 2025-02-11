@@ -1,0 +1,126 @@
+body {
+    font-family: "Comfortaa", sans-serif;
+    line-height: 1.6;
+    /* background-image: linear-gradient(180deg, #e2c88d 0%, #4d3f28 100%); */
+    background-image: url('bg3.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    /* backdrop-filter: blur(5px); */
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+}
+
+.cover {
+    margin-top: 100px;
+    width: 80vw;
+    max-width: 800px;
+    object-fit: contain;
+    box-shadow: #000 5px 5px 40px;
+    border-radius: 10px;
+    transition-duration: 0.5s;
+}
+
+.cover:hover {
+    transform: scale(1.05);
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.link {
+    margin: 0 10px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    box-shadow: #000 0px 0px 10px;
+    background-color: #000;
+    transition-duration: 0.5s;
+}
+
+.link:hover {
+    background-color: #f6c879;
+    transform: scale(1.25);
+}
+
+h1 {
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+.info {
+    margin-top: 40px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 100px;
+}
+
+.markdown {
+    margin-top: 40px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 80px;
+    width: 800px;
+}
+
+.info p {
+    margin: 10px;
+}
+
+.info a {
+    color: #fff;
+    font-weight: bold;
+}
+
+.gap {
+    flex: 1;
+}
+.footer {
+    margin-top: 100px;
+    width: 100vw;
+    background-color: #000;
+    color: #fff;
+    box-shadow: #000 0px 0px 10px;
+}
+
+.footer_content {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    column-gap: 20px;
+    padding: 10px 30px;
+}
+
+.icon {
+    color: white;
+}
+
+.footer_content a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.dot {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+}
