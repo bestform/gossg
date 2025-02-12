@@ -18,13 +18,13 @@ I have always been heavily into sound design. This has been a major part of almo
 
 Recently, I’ve moved on to Space Ambient and Techno/Dub Ambient.
 
-For all of these genres, Ableton Live was perfect, and I kept upgrading to the latest Suite version over the years. My current Ableton Live version is the latest—version 12.
+For all of these genres, Ableton Live was perfect, and I kept upgrading to the latest Suite version over the years. My current Ableton Live version is the latest — version 12.
 
 ## The Plugin Story
 
 I am a musician by night and a software developer by day. In recent years, money has become less of a limited resource than time, so I started investing in plugins.
 
-I began with the classic Serum and soon found joy in professional plugins like Arturia Pigments, Pro-Q3, Pro-R2—you name it. The usual suspects in the field of sound design and professional FX. I even bought a current version of Reason to use as a Rack Plugin inside Ableton Live.
+I began with the classic Serum and soon found joy in professional plugins like Arturia Pigments, Pro-Q3, Pro-R2 — you name it. The usual suspects in the field of sound design and professional FX. I even bought a current version of Reason to use as a Rack Plugin inside Ableton Live.
 
 As a result, my focus shifted from simply investing in my DAW of choice to buying tools that work independently of the chosen host.
 
@@ -32,7 +32,7 @@ As a result, my focus shifted from simply investing in my DAW of choice to buyin
 
 As a programmer, the integration of Max/MSP into Live felt like a dream come true. Having experience with Pure Data, this seemed like the perfect match.
 
-But as powerful as this integration was, I found myself almost never using it. I don't know (or didn’t know—more on that later) why, because it seemed like it had been made just for me.
+But as powerful as this integration was, I found myself almost never using it. I don't know (or didn’t know — more on that later) why, because it seemed like it had been made just for me.
 
 An unbelievably powerful tool with excellent integration into the DAW. A whole world of possibilities. And yet, I rarely used it. Which is a real shame. I still regret not investing more time into it.
 
@@ -46,7 +46,7 @@ But about a month ago, I felt the need for a new approach to music making. I was
 
 Whatever the reason, I remembered this DAW I had dismissed for years, which had been steadily releasing update after update. I thought to myself:  "It couldn't hurt to just try it. There’s a 30-day trial, after all. I have nothing to lose!"
 
-So I installed the Bitwig trial, and something strange happened. Immediately, I was more productive in Bitwig than I had ever been in Live. Everything seemed tailored to my way of thinking. I barely had to read any documentation—I just started making music, and it all made so much sense.
+So I installed the Bitwig trial, and something strange happened. Immediately, I was more productive in Bitwig than I had ever been in Live. Everything seemed tailored to my way of thinking. I barely had to read any documentation — I just started making music, and it all made so much sense.
 
 After some time, it became clear to me what separated Bitwig from Live, but in the beginning, it just felt magical.
 
@@ -56,7 +56,7 @@ This is where we dive into subcategories, so bear with me.
 
 ### The Layout
 
-Bitwig is very similar to Live. The two main modes of composing—the Scene view and the Arranger—are on par with Live. This might not seem like a big deal since the concept is already well-established. Or is it?
+Bitwig is very similar to Live. The two main modes of composing — the Scene view and the Arranger — are on par with Live. This might not seem like a big deal since the concept is already well-established. Or is it?
 
 The way Bitwig integrates the Scene view with the Arranger may seem like a small thing at first, but it makes a huge difference for me.
 
@@ -68,28 +68,28 @@ Oh. My. God. The modulators.
 
 Let me be clear: there’s nothing here that cannot be done in Live. But having a set of modulators available for every instrument, track, or project in such an easily accessible way is a dream come true.
 
-Sure, you can add an LFO to a track in Live and map its values to all possible controls—including plugin parameters. But the way Bitwig does it is so seamless that you don’t have to think twice about automation.
+Sure, you can add an LFO to a track in Live and map its values to all possible controls — including plugin parameters. But the way Bitwig does it is so seamless that you don’t have to think twice about automation.
 
 ### The Grid
 
 Let’s talk about the elephant in the room. I mentioned before that I adore Max for Live. Yet, for whatever reason, I rarely used it.
 
-Enter _The Grid_: I use it ALL THE TIME. For anything. I use the Note Grid to generate sequences, the FX Grid to build whacky effects, and the Multi Grid to design crazy sounds. And I’m having the time of my life.
+Enter The Grid: I use it ALL THE TIME. For anything. I use the Note Grid to generate sequences, the FX Grid to build whacky effects, and the Multi Grid to design crazy sounds. And I’m having the time of my life.
 
 Why does this tool mean so much more to me than Max for Live?
 
-Max for Live is perfect—on paper. It does everything and integrates deeply with Live through an API that rivals anything I know. But The Grid is different. It’s more limited, yet that limitation turns out to be its greatest strength. It has the perfect level of abstraction—an incredibly difficult balance to achieve. The Grid just works.
+Max for Live is perfect — on paper. It does everything and integrates deeply with Live through an API that rivals anything I know. But The Grid is different. It’s more limited, yet that limitation turns out to be its greatest strength. It has the perfect level of abstraction — an incredibly difficult balance to achieve. The Grid just works.
 
 ## Verdict
 
 The key difference between Bitwig and Live seems to be that Bitwig’s developers have a deep love for sound design and workflow. They consistently ask themselves: "How should this work for a musician?"
 
-I don’t want to dismiss Ableton’s work. Features like Max for Live prove that they know what they’re doing. But at the same time, Ableton seems to focus too much on the programmer's way of thinking, rather than the _musician's_.
+I don’t want to dismiss Ableton’s work. Features like Max for Live prove that they know what they’re doing. But at the same time, Ableton seems to focus too much on the programmer's way of thinking, rather than the musician's.
 
-As a programmer myself, one might think that’s exactly what I’d want. But when I’m making music, I want to _make music_. And Bitwig caters to that mindset better than Live does.
+As a programmer myself, one might think that’s exactly what I’d want. But when I’m making music, I want to make music. And Bitwig caters to that mindset better than Live does.
 
 ## Final Words
 
-Produce great music in whatever DAW you prefer. At the end of the day, the tool doesn’t matter—it’s the music that does. For me, it turned out that Bitwig is my way forward. If Live, Logic, Reaper, or any other DAW suits _you_ better—go for it! Just make great music.
+Produce great music in whatever DAW you prefer. At the end of the day, the tool doesn’t matter — it’s the music that does. For me, it turned out that Bitwig is my way forward. If Live, Logic, Reaper, or any other DAW suits you better — go for it! Just make great music.
 
 For me, Bitwig is the way. Who would have guessed? Certainly not me. But here we are.
